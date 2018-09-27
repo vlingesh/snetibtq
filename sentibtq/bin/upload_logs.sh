@@ -1,0 +1,1 @@
+curl -k -u elastic:zlmJ5nN9oWbR2aGSrxYFgwmt -H 'Content-Type: application/x-ndjson' -XPOST 'https://427ae6340b68467898ce65a978ffb80d.us-east-1.aws.found.io:9243/_bulk?pretty' --data-binary @logs.jsonl
