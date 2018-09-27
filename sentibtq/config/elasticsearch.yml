@@ -1,0 +1,6 @@
+cluster.name: elastic-cluster
+node.name: node-1
+node.master: true
+path.data: elasticsearch/data
+http.port: 9200
+network.host: 427ae6340b68467898ce65a978ffb80d.us-east-1.aws.found.io
